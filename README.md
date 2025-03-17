@@ -2,6 +2,8 @@ Airbnb Clone 🌍🏡
 
 This is a simple Airbnb Clone built using HTML and CSS. It replicates Airbnb's homepage layout and design, featuring a navigation bar, search functionality, category icons, listings, and a structured footer.
 
+Live DEMO : https://vaidikkumarpatel410.github.io/Airbnb-Clone/
+
 ✨ Features:
 
 🔍 Search Bar – Find destinations, check-in/out dates, and guests.
